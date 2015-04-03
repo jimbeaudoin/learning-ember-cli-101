@@ -6,6 +6,7 @@ ember new borrowers
 ember generate resource friends firstName:string lastName:string email:string twitter:string totalArticles:number
 ember g adapter application
 ember server --proxy http://api.ember-cli-101.com
+ember g route friends/index
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
