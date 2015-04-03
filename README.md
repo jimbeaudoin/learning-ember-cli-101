@@ -3,6 +3,7 @@ Repository for my Learning with the Book ember-cli-101
 ## Executed Commands
 ```sh
 ember new borrowers
+ember generate resource friends firstName:string lastName:string email:string twitter:string totalArticles:number
 ```
 
 --
