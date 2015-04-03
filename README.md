@@ -4,6 +4,7 @@ Repository for my Learning with the Book ember-cli-101
 ```sh
 ember new borrowers
 ember generate resource friends firstName:string lastName:string email:string twitter:string totalArticles:number
+ember g adapter application
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
