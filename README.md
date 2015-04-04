@@ -9,6 +9,7 @@ ember server --proxy http://api.ember-cli-101.com
 ember g route friends/index
 ember g route friends/new
 ember g template friends/-form
+ember g controller friends/new
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
