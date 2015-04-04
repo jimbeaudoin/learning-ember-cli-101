@@ -8,6 +8,7 @@ ember g adapter application
 ember server --proxy http://api.ember-cli-101.com
 ember g route friends/index
 ember g route friends/new
+ember g template friends/-form
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
