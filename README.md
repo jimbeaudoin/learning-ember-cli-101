@@ -14,6 +14,7 @@ ember g route friends/show --path=:friend_id
 ember g template index
 ember g route friends/edit --path=:friend_id/edit
 ember g controller friends/edit
+ember g controller friends/base
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
