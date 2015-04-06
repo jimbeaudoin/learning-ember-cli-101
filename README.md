@@ -13,6 +13,7 @@ ember g controller friends/new
 ember g route friends/show --path=:friend_id
 ember g template index
 ember g route friends/edit --path=:friend_id/edit
+ember g controller friends/edit
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
