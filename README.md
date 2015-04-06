@@ -1,5 +1,5 @@
 # learning-ember-cli-101
-Repository for my Learning with the Book ember-cli-101
+Repository for my Learning with the Book [ember-cli-101](https://leanpub.com/ember-cli-101)
 ## Executed Commands
 ```sh
 ember new borrowers
