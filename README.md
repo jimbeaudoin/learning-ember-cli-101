@@ -16,6 +16,7 @@ ember g route friends/edit --path=:friend_id/edit
 ember g controller friends/edit
 ember g controller friends/base
 ember generate resource articles createdAt:date description:string notes:string state:string
+ember g route articles/index
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
