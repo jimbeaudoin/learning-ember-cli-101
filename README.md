@@ -17,6 +17,7 @@ ember g controller friends/edit
 ember g controller friends/base
 ember generate resource articles createdAt:date description:string notes:string state:string
 ember g route articles/index
+ember g controller articles/new
 ```
 ## Backend Repository
 https://github.com/abuiles/borrowers-backend
